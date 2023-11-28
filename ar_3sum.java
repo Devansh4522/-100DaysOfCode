@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class ar_3sum {
     public List<List<Integer>> threeSum(int[] nums) {
         int n = nums.length;
