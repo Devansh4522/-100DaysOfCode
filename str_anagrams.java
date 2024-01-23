@@ -1,3 +1,5 @@
+import java.util.*;
+
 class str_anagrams {
     public boolean isAnagram(String s, String t) {
         HashMap<Character, Integer> smap = new HashMap<>();
