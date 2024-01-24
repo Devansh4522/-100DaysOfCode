@@ -1,0 +1,9 @@
+DAY- 1 of #100DaysOfCode
+Questions solved: 
+1)sort 0s 1s and 2s using one pass algorithm (optimized approach)
+		 
+Explore my GitHub repositoryfor a deep dive into
+the solutions.
+https://github.com/Devansh4522/-100DaysOfCode
+
+#100DaysOfCode #CodingChallenge #LeetCode #java #dsa #CodingChallenge
