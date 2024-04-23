@@ -3,7 +3,6 @@ import java.util.*;
 public class ar_3sum {
     public List<List<Integer>> threeSum(int[] nums) {
         int n = nums.length;
-
         List<List<Integer>> finalList = new ArrayList<>();
         Arrays.sort(nums);
         for (int i = 0; i < n - 1; i++) {
