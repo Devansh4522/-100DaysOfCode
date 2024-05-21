@@ -1,4 +1,4 @@
-public class ar_subarrayWithKDiffChar {
+public class ar_subarrayWithKDiffInt {
 
     public int subarraysWithKDistinct(int[] nums, int k) {
 
